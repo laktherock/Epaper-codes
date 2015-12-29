@@ -1,0 +1,44 @@
+
+body {
+    background: #1dd2af none repeat scroll 0 0;
+    font-family: Tahoma;
+    font-size: 29px;
+}
+header{
+	color: #364c62;
+	font-family: Georgia;
+	border-bottom: 3px solid #364c62; 
+
+}
+ul {
+    list-style: outside none none;
+    margin-left: 170px;
+    margin-top: 166px;
+}
+li a {
+    color: #364c62;
+    float: left;
+    margin: 72px;
+    text-decoration: none;
+}
+li a:hover{
+	color: #CF4132;
+}
+li a:visited{
+	color: #879394;
+}
+input[type=text]{
+  	padding: 7px;
+    border: none;
+    font-size: 16px;
+    font-family: 'Trebuchet MS';
+    text-align: center;
+}
+input[type=submit]{
+	padding: 7px;
+	border: none;
+	font-size: 16px;
+    font-family: 'Trebuchet MS';
+    text-align: center;
+    background-color: #457624;
+}
